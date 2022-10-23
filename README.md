@@ -1,5 +1,5 @@
 # YaMDb API
-![Python version](https://img.shields.io/badge/python-3.7-yellow) ![Django version](https://img.shields.io/badge/django-2.2-orange) ![workflow status](https://github.com/AleksandrUsolcev/yamdb_final/actions/workflows/main.yml/badge.svg)
+![Python version](https://img.shields.io/badge/python-3.7-yellow) ![Django version](https://img.shields.io/badge/django-2.2-orange) ![workflow status](https://github.com/AleksandrUsolcev/yamdb_final/workflows/main.yml/badge.svg)
 
 Проект YaMDb собирает отзывы (Review) пользователей на произведения (Titles).
 Произведения делятся на категории: "Книги", "Фильмы", "Музыка". Список
